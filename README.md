@@ -1,5 +1,5 @@
 # RaajikLimitDamage
- Toggles limit damage perk and toggles raid marker (red X) on self while active.
+ Toggles limit damage perk and red X raid marker on self while active.
 
 # Installation
  Move or extract "RaajikLimitDamage" folder to:
