@@ -9,7 +9,8 @@
 # Usage
  Type /ld to toggle the "limit damage" perk on/off. While active, the red X raid marker appears above your head.
 
- ![image](https://github.com/user-attachments/assets/69b93d16-cdf5-46dc-b40d-095ecc0abf54)
+![image](https://github.com/user-attachments/assets/ec334f4d-f57d-4726-981a-68b55ffc6306)
 
 
-![image](https://github.com/user-attachments/assets/52f016de-8ebe-4935-8c99-849665e0a801)
+![image](https://github.com/user-attachments/assets/629e15e3-f105-4454-99d5-bc4328b9b2f6)
+
