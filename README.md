@@ -4,7 +4,7 @@
 # Installation
  Move or extract "RaajikLimitDamage" folder to:
  
- wowdirectory/interface/addons
+ X:/WoWDirectory/Interface/Addons
 
 # Usage
  Type /ld to toggle the "limit damage" perk on/off. While active, the red X raid marker appears above your head.
