@@ -1,5 +1,5 @@
 ## Interface: 30300
 ## Title: RaajikLimitDamage
-## Notes: Toggles limit damage perk and toggles raid marker (red X) on self while active.
+## Notes: Toggles limit damage perk and red X raid marker on self while active.
 ## Author: Raajik
 RaajikLimitDamage.lua

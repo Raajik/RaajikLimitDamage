@@ -29,6 +29,6 @@ LimitDamage:SetScript("OnEvent", function(self, event)
             RunScript([[if not PerkToggle then PerkToggle = false end; PerkToggle = not PerkToggle; ChangePerkOption("Misc Options", "Limit damage", PerkToggle, true)]])
         end
 
-        print("LimitDamage loaded. Use /limit to toggle the perk and raid marker.")
+        print("RaajikLimitDamage loaded. Use /ld to toggle the perk and raid marker.")
     end
 end)
